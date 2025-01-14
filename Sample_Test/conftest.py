@@ -6,7 +6,7 @@ from selenium import webdriver
 def pytest_addoption(parser):
     parser.addoption('--browser')
 
-###############################Code to Take Screenshot on Failure######################
+#################################Code to Take Screenshot on Failure#############################
 
 @pytest.fixture()
 def log_on_failure(request):
