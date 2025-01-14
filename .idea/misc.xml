@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.11 (Project_Ninja)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (Project_Ninja)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.11" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (Python_Test_Framework_Tutorials)" project-jdk-type="Python SDK" />
+>>>>>>> 52b282e464b1b7e015c4f9dc8fde60f4e56d5ca1
 </project>
